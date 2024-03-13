@@ -65,6 +65,8 @@ const combinedObject = { ...object1, ...object2 };
 console.log(combinedObject); // Output: { a: 1, b: 3, c: 4 }
 console.log()
 
+// new comment
+
 
 
 
